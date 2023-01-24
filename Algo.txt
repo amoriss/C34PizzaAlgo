@@ -2,3 +2,4 @@
 2. pick pizza size
 3. order vegetable pizza
 4. get pizza delivered
+5. paid for pizza
