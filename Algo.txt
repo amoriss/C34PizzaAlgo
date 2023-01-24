@@ -1,0 +1,4 @@
+1. log in to account for Pizza Hut
+2. pick pizza size
+3. order vegetable pizza
+4. get pizza delivered
